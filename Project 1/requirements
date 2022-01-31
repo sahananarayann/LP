@@ -1,0 +1,11 @@
+<--CREATE A NUMBER GUESSING GAME-->
+
+REQUIREMENTS
+1)  Algorithm should choose a number from 1-10 randomly.
+2)  User should have 3 chances to guess the right number.
+3)  If User guesses the right number then the points scored should increase. After 3 wrong guesses the game ends.
+
+FURTHER IMPORVEMENTS
+1)  User should choose the level of difficulty (Easy, Moderate, Hard), accordingly the range of numbers should increase.
+2)  Except in the difficulty level Easy, the code should supply hints to the user after each wrong guess. 
+    The hints could be saying that the number to be guessed is a multiple of another number, or providing a upper limit and lower limit of that number.
